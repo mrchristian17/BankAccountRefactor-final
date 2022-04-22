@@ -1,0 +1,21 @@
+Daniel Moreno
+ID Number: 60
+DOB: "December 20, 1961"
+Address: "500 W. University Ave, El Paso, TX 79968"
+Phone Number: (915) 747-5023
+
+Start of Period Balances:
+Checking-1059:	$1823.22
+Savings-2059:	$4957.04
+Credit-3059:	$-1572.11
+
+04/27/21:	Daniel Moreno executed a DEPOSIT to Checking-1059.  Daniel Moreno's Balance for Checking-1059: $6823.22
+04/27/21:	Daniel Moreno paid Daniel Mejia $1000.00 from Checking-1059.  Daniel Moreno's New Balance for Checking-1059: $5823.22
+04/27/21:	
+Daniel Moreno received $25.16 from Aladdin Disney.  Daniel Moreno's New Balance for Checking-1059: $5848.38
+
+End of Period Balances:
+Checking-1059:	$5848.38
+Savings-2059:	$4957.04
+Credit-3059:	$-1572.11
+

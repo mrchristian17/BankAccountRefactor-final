@@ -1,0 +1,28 @@
+Mickey Mouse
+ID Number: 1
+DOB: "May 15, 1935"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone Number: (714) 781-4636
+
+Start of Period Balances:
+Checking-1000:	$2160.12
+Savings-2000:	$4788.55
+Credit-3000:	$-127.93
+
+04/27/21:	Mickey Mouse paid Donald Duck $100.00 from Checking-1000.  Mickey Mouse's New Balance for Checking-1000: $2060.12
+04/27/21:	Mickey Mouse transferred $400.00 from Savings-2000 to Checking-1000.  Mickey Mouse's New Balance for Savings-2000: $4388.55.  Mickey Mouse's New Balance for Checking-1000: $2460.12
+04/27/21:	Mickey Mouse made a balance inquiry on Savings-2000.  Mickey Mouse's Balance for Savings-2000: $4388.55
+04/27/21:	Mickey Mouse executed a WITHDRAW from Checking-1000.  Mickey Mouse's Balance for Checking-1000: $2360.12
+04/27/21:	Mickey Mouse executed a DEPOSIT to Savings-2000.  Mickey Mouse's Balance for Savings-2000: $4888.55
+04/27/21:	Mickey Mouse failed to transfer $300.00 from Savings-2000 to Credit-3000.  Mickey Mouse's New Balance for Savings-2000: $4888.55.  Mickey Mouse's New Balance for Credit-3000: $-127.93
+04/27/21:	Mickey Mouse executed a WITHDRAW from Savings-2000.  Mickey Mouse's Balance for Savings-2000: $4788.55
+04/27/21:	Mickey Mouse paid Matthew Herrera $17.97 from Checking-1000.  Mickey Mouse's New Balance for Checking-1000: $2342.15
+04/27/21:	Mickey Mouse paid Kevin Moreno $48.46 from Savings-2000.  Mickey Mouse's New Balance for Savings-2000: $4740.09
+04/27/21:	
+Mickey Mouse received $50.00 from Christian Moreno.  Mickey Mouse's New Balance for Checking-1000: $2392.15
+
+End of Period Balances:
+Checking-1000:	$2392.15
+Savings-2000:	$4740.09
+Credit-3000:	$-127.93
+

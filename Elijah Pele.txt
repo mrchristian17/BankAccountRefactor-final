@@ -1,0 +1,21 @@
+Elijah Pele
+ID Number: 66
+DOB: "May 29, 1947"
+Address: "500 W. University Ave, El Paso, TX 79968"
+Phone Number: (915) 747-5029
+
+Start of Period Balances:
+Checking-1065:	$773.60
+Savings-2065:	$2752.83
+Credit-3065:	$-1608.52
+
+04/27/21:	Elijah Pele executed a DEPOSIT to Checking-1065.  Elijah Pele's Balance for Checking-1065: $5773.60
+04/27/21:	Elijah Pele paid Daniel Mejia $1000.00 from Checking-1065.  Elijah Pele's New Balance for Checking-1065: $4773.60
+04/27/21:	
+Elijah Pele received $28.89 from Ariel Disney.  Elijah Pele's New Balance for Checking-1065: $4802.49
+
+End of Period Balances:
+Checking-1065:	$4802.49
+Savings-2065:	$2752.83
+Credit-3065:	$-1608.52
+

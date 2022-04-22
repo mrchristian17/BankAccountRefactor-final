@@ -1,0 +1,19 @@
+Lilo Disney
+ID Number: 35
+DOB: "November 10, 1971"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone Number: (714) 781-4636
+
+Start of Period Balances:
+Checking-1034:	$1962.25
+Savings-2034:	$4196.43
+Credit-3034:	$-6.78
+
+04/27/21:	Lilo Disney executed a WITHDRAW from Savings-2034.  Lilo Disney's Balance for Savings-2034: $4137.43
+04/27/21:	Lilo Disney executed a WITHDRAW from Savings-2034.  Lilo Disney's Balance for Savings-2034: $4078.43
+
+End of Period Balances:
+Checking-1034:	$1962.25
+Savings-2034:	$4078.43
+Credit-3034:	$-6.78
+

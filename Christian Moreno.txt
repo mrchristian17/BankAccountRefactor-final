@@ -1,0 +1,18 @@
+Christian Moreno
+ID Number: 108
+DOB: Septemeber 08, 1993
+Address: "900 Redd Rd, El Paso, TX, 79912"
+Phone Number: (915) 555-5555
+
+Start of Period Balances:
+Checking-1107:	-
+Savings-2107:	$1000.00
+Credit-3107:	-
+
+04/27/21:	Christian Moreno paid Mickey Mouse $50.00 from Savings-2107.  Christian Moreno's New Balance for Savings-2107: $950.00
+
+End of Period Balances:
+Checking-1107:	$200.00
+Savings-2107:	$950.00
+Credit-3107:	$.00
+

@@ -1,0 +1,265 @@
+Mickey Mouse paid Donald Duck $100.00 from Checking-1000.  Mickey Mouse's New Balance for Checking-1000: $2060.12
+Donald Duck received $100.00 from Mickey Mouse.  Donald Duck's New Balance for Checking-1001: $818.42
+Mickey Mouse transferred $400.00 from Savings-2000 to Checking-1000.  Mickey Mouse's New Balance for Savings-2000: $4388.55.  Mickey Mouse's New Balance for Checking-1000: $2460.12
+Mickey Mouse made a balance inquiry on Savings-2000.  Mickey Mouse's Balance for Savings-2000: $4388.55
+Mickey Mouse executed a WITHDRAW from Checking-1000.  Mickey Mouse's Balance for Checking-1000: $2360.12
+Mickey Mouse executed a DEPOSIT to Savings-2000.  Mickey Mouse's Balance for Savings-2000: $4888.55
+Mickey Mouse failed to transfer $300.00 from Savings-2000 to Credit-3000.  Mickey Mouse's New Balance for Savings-2000: $4888.55.  Mickey Mouse's New Balance for Credit-3000: $-127.93
+Ali Abed executed a DEPOSIT to Checking-1036.  Ali Abed's Balance for Checking-1036: $5176.05
+Kevin Acosta executed a DEPOSIT to Checking-1037.  Kevin Acosta's Balance for Checking-1037: $6527.15
+Antonio Aguirre executed a DEPOSIT to Checking-1038.  Antonio Aguirre's Balance for Checking-1038: $6081.07
+Madison Anderson executed a DEPOSIT to Checking-1039.  Madison Anderson's Balance for Checking-1039: $6810.81
+Kevin Aofia executed a DEPOSIT to Checking-1040.  Kevin Aofia's Balance for Checking-1040: $5919.95
+Angel Armendariz executed a DEPOSIT to Checking-1041.  Angel Armendariz's Balance for Checking-1041: $6182.34
+Nadia Atiyeh executed a DEPOSIT to Checking-1042.  Nadia Atiyeh's Balance for Checking-1042: $5584.94
+Nicole Avila executed a DEPOSIT to Checking-1043.  Nicole Avila's Balance for Checking-1043: $5348.70
+Andrea Carrera Pio executed a DEPOSIT to Checking-1044.  Andrea Carrera Pio's Balance for Checking-1044: $6272.38
+Luis Davila executed a DEPOSIT to Checking-1045.  Luis Davila's Balance for Checking-1045: $6555.31
+Vincent De La Torre executed a DEPOSIT to Checking-1046.  Vincent De La Torre's Balance for Checking-1046: $6844.59
+Oswaldo Escobedo executed a DEPOSIT to Checking-1047.  Oswaldo Escobedo's Balance for Checking-1047: $6102.49
+Ivan Espino executed a DEPOSIT to Checking-1048.  Ivan Espino's Balance for Checking-1048: $6891.36
+Julio Garcia executed a DEPOSIT to Checking-1049.  Julio Garcia's Balance for Checking-1049: $5360.56
+Mauricio Garcia Tovar executed a DEPOSIT to Checking-1050.  Mauricio Garcia Tovar's Balance for Checking-1050: $6590.75
+Denise Gomez executed a DEPOSIT to Checking-1051.  Denise Gomez's Balance for Checking-1051: $6450.19
+Paulie Jo Gonzalez executed a DEPOSIT to Checking-1052.  Paulie Jo Gonzalez's Balance for Checking-1052: $5929.81
+Raul Guerrero executed a DEPOSIT to Checking-1053.  Raul Guerrero's Balance for Checking-1053: $5453.48
+Matthew Herrera executed a DEPOSIT to Checking-1054.  Matthew Herrera's Balance for Checking-1054: $6296.02
+Ethan Kish executed a DEPOSIT to Checking-1055.  Ethan Kish's Balance for Checking-1055: $5398.59
+Diana Licon executed a DEPOSIT to Checking-1056.  Diana Licon's Balance for Checking-1056: $5265.80
+Dustyn Loyda executed a DEPOSIT to Checking-1057.  Dustyn Loyda's Balance for Checking-1057: $5657.56
+Mario Macias executed a DEPOSIT to Checking-1058.  Mario Macias's Balance for Checking-1058: $5754.40
+Daniel Moreno executed a DEPOSIT to Checking-1059.  Daniel Moreno's Balance for Checking-1059: $6823.22
+Jacob Moreno executed a DEPOSIT to Checking-1060.  Jacob Moreno's Balance for Checking-1060: $5666.34
+Kevin Moreno executed a DEPOSIT to Checking-1061.  Kevin Moreno's Balance for Checking-1061: $5759.49
+Leonardo Munoz executed a DEPOSIT to Checking-1062.  Leonardo Munoz's Balance for Checking-1062: $5908.75
+Francisco Nolasco executed a DEPOSIT to Checking-1063.  Francisco Nolasco's Balance for Checking-1063: $6411.26
+Roberto Orozco executed a DEPOSIT to Checking-1064.  Roberto Orozco's Balance for Checking-1064: $5689.39
+Elijah Pele executed a DEPOSIT to Checking-1065.  Elijah Pele's Balance for Checking-1065: $5773.60
+Omar Perez executed a DEPOSIT to Checking-1066.  Omar Perez's Balance for Checking-1066: $5614.78
+Diego Quinones Rodriguez executed a DEPOSIT to Checking-1067.  Diego Quinones Rodriguez's Balance for Checking-1067: $6104.07
+Juan Rabelo executed a DEPOSIT to Checking-1068.  Juan Rabelo's Balance for Checking-1068: $6241.95
+Angel Ramos executed a DEPOSIT to Checking-1069.  Angel Ramos's Balance for Checking-1069: $6058.40
+Efrain Retana executed a DEPOSIT to Checking-1070.  Efrain Retana's Balance for Checking-1070: $6571.15
+Hector Richart Ruiz executed a DEPOSIT to Checking-1071.  Hector Richart Ruiz's Balance for Checking-1071: $5210.67
+Andrew Rodriguez executed a DEPOSIT to Checking-1072.  Andrew Rodriguez's Balance for Checking-1072: $6808.89
+Joel Salas executed a DEPOSIT to Checking-1073.  Joel Salas's Balance for Checking-1073: $5507.76
+David Sanchez executed a DEPOSIT to Checking-1074.  David Sanchez's Balance for Checking-1074: $6393.88
+Jose Sanchez Jr executed a DEPOSIT to Checking-1075.  Jose Sanchez Jr's Balance for Checking-1075: $6096.40
+Madison Schlosser executed a DEPOSIT to Checking-1076.  Madison Schlosser's Balance for Checking-1076: $5969.22
+Dillon Trinh executed a DEPOSIT to Checking-1077.  Dillon Trinh's Balance for Checking-1077: $6797.75
+Stephanie Valdez executed a DEPOSIT to Checking-1078.  Stephanie Valdez's Balance for Checking-1078: $6834.72
+Ali Abed paid Daniel Mejia $1000.00 from Checking-1036.  Ali Abed's New Balance for Checking-1036: $4176.05
+Daniel Mejia received $1000.00 from Ali Abed.  Daniel Mejia's New Balance for Checking-1081: $1267.51
+Kevin Acosta paid Daniel Mejia $1000.00 from Checking-1037.  Kevin Acosta's New Balance for Checking-1037: $5527.15
+Daniel Mejia received $1000.00 from Kevin Acosta.  Daniel Mejia's New Balance for Checking-1081: $2267.51
+Antonio Aguirre paid Daniel Mejia $1000.00 from Checking-1038.  Antonio Aguirre's New Balance for Checking-1038: $5081.07
+Daniel Mejia received $1000.00 from Antonio Aguirre.  Daniel Mejia's New Balance for Checking-1081: $3267.51
+Madison Anderson paid Daniel Mejia $1000.00 from Checking-1039.  Madison Anderson's New Balance for Checking-1039: $5810.81
+Daniel Mejia received $1000.00 from Madison Anderson.  Daniel Mejia's New Balance for Checking-1081: $4267.51
+Kevin Aofia paid Daniel Mejia $1000.00 from Checking-1040.  Kevin Aofia's New Balance for Checking-1040: $4919.95
+Daniel Mejia received $1000.00 from Kevin Aofia.  Daniel Mejia's New Balance for Checking-1081: $5267.51
+Angel Armendariz paid Daniel Mejia $1000.00 from Checking-1041.  Angel Armendariz's New Balance for Checking-1041: $5182.34
+Daniel Mejia received $1000.00 from Angel Armendariz.  Daniel Mejia's New Balance for Checking-1081: $6267.51
+Nadia Atiyeh paid Daniel Mejia $1000.00 from Checking-1042.  Nadia Atiyeh's New Balance for Checking-1042: $4584.94
+Daniel Mejia received $1000.00 from Nadia Atiyeh.  Daniel Mejia's New Balance for Checking-1081: $7267.51
+Nicole Avila paid Daniel Mejia $1000.00 from Checking-1043.  Nicole Avila's New Balance for Checking-1043: $4348.70
+Daniel Mejia received $1000.00 from Nicole Avila.  Daniel Mejia's New Balance for Checking-1081: $8267.51
+Andrea Carrera Pio paid Daniel Mejia $1000.00 from Checking-1044.  Andrea Carrera Pio's New Balance for Checking-1044: $5272.38
+Daniel Mejia received $1000.00 from Andrea Carrera Pio.  Daniel Mejia's New Balance for Checking-1081: $9267.51
+Luis Davila paid Daniel Mejia $1000.00 from Checking-1045.  Luis Davila's New Balance for Checking-1045: $5555.31
+Daniel Mejia received $1000.00 from Luis Davila.  Daniel Mejia's New Balance for Checking-1081: $10267.51
+Vincent De La Torre paid Daniel Mejia $1000.00 from Checking-1046.  Vincent De La Torre's New Balance for Checking-1046: $5844.59
+Daniel Mejia received $1000.00 from Vincent De La Torre.  Daniel Mejia's New Balance for Checking-1081: $11267.51
+Oswaldo Escobedo paid Daniel Mejia $1000.00 from Checking-1047.  Oswaldo Escobedo's New Balance for Checking-1047: $5102.49
+Daniel Mejia received $1000.00 from Oswaldo Escobedo.  Daniel Mejia's New Balance for Checking-1081: $12267.51
+Ivan Espino paid Daniel Mejia $1000.00 from Checking-1048.  Ivan Espino's New Balance for Checking-1048: $5891.36
+Daniel Mejia received $1000.00 from Ivan Espino.  Daniel Mejia's New Balance for Checking-1081: $13267.51
+Julio Garcia paid Daniel Mejia $1000.00 from Checking-1049.  Julio Garcia's New Balance for Checking-1049: $4360.56
+Daniel Mejia received $1000.00 from Julio Garcia.  Daniel Mejia's New Balance for Checking-1081: $14267.51
+Mauricio Garcia Tovar paid Daniel Mejia $1000.00 from Checking-1050.  Mauricio Garcia Tovar's New Balance for Checking-1050: $5590.75
+Daniel Mejia received $1000.00 from Mauricio Garcia Tovar.  Daniel Mejia's New Balance for Checking-1081: $15267.51
+Denise Gomez paid Daniel Mejia $1000.00 from Checking-1051.  Denise Gomez's New Balance for Checking-1051: $5450.19
+Daniel Mejia received $1000.00 from Denise Gomez.  Daniel Mejia's New Balance for Checking-1081: $16267.51
+Paulie Jo Gonzalez paid Daniel Mejia $1000.00 from Checking-1052.  Paulie Jo Gonzalez's New Balance for Checking-1052: $4929.81
+Daniel Mejia received $1000.00 from Paulie Jo Gonzalez.  Daniel Mejia's New Balance for Checking-1081: $17267.51
+Raul Guerrero paid Daniel Mejia $1000.00 from Checking-1053.  Raul Guerrero's New Balance for Checking-1053: $4453.48
+Daniel Mejia received $1000.00 from Raul Guerrero.  Daniel Mejia's New Balance for Checking-1081: $18267.51
+Matthew Herrera paid Daniel Mejia $1000.00 from Checking-1054.  Matthew Herrera's New Balance for Checking-1054: $5296.02
+Daniel Mejia received $1000.00 from Matthew Herrera.  Daniel Mejia's New Balance for Checking-1081: $19267.51
+Ethan Kish paid Daniel Mejia $1000.00 from Checking-1055.  Ethan Kish's New Balance for Checking-1055: $4398.59
+Daniel Mejia received $1000.00 from Ethan Kish.  Daniel Mejia's New Balance for Checking-1081: $20267.51
+Diana Licon paid Daniel Mejia $1000.00 from Checking-1056.  Diana Licon's New Balance for Checking-1056: $4265.80
+Daniel Mejia received $1000.00 from Diana Licon.  Daniel Mejia's New Balance for Checking-1081: $21267.51
+Dustyn Loyda paid Daniel Mejia $1000.00 from Checking-1057.  Dustyn Loyda's New Balance for Checking-1057: $4657.56
+Daniel Mejia received $1000.00 from Dustyn Loyda.  Daniel Mejia's New Balance for Checking-1081: $22267.51
+Mario Macias paid Daniel Mejia $1000.00 from Checking-1058.  Mario Macias's New Balance for Checking-1058: $4754.40
+Daniel Mejia received $1000.00 from Mario Macias.  Daniel Mejia's New Balance for Checking-1081: $23267.51
+Daniel Moreno paid Daniel Mejia $1000.00 from Checking-1059.  Daniel Moreno's New Balance for Checking-1059: $5823.22
+Daniel Mejia received $1000.00 from Daniel Moreno.  Daniel Mejia's New Balance for Checking-1081: $24267.51
+Jacob Moreno paid Daniel Mejia $1000.00 from Checking-1060.  Jacob Moreno's New Balance for Checking-1060: $4666.34
+Daniel Mejia received $1000.00 from Jacob Moreno.  Daniel Mejia's New Balance for Checking-1081: $25267.51
+Kevin Moreno paid Daniel Mejia $1000.00 from Checking-1061.  Kevin Moreno's New Balance for Checking-1061: $4759.49
+Daniel Mejia received $1000.00 from Kevin Moreno.  Daniel Mejia's New Balance for Checking-1081: $26267.51
+Leonardo Munoz paid Daniel Mejia $1000.00 from Checking-1062.  Leonardo Munoz's New Balance for Checking-1062: $4908.75
+Daniel Mejia received $1000.00 from Leonardo Munoz.  Daniel Mejia's New Balance for Checking-1081: $27267.51
+Francisco Nolasco paid Daniel Mejia $1000.00 from Checking-1063.  Francisco Nolasco's New Balance for Checking-1063: $5411.26
+Daniel Mejia received $1000.00 from Francisco Nolasco.  Daniel Mejia's New Balance for Checking-1081: $28267.51
+Roberto Orozco paid Daniel Mejia $1000.00 from Checking-1064.  Roberto Orozco's New Balance for Checking-1064: $4689.39
+Daniel Mejia received $1000.00 from Roberto Orozco.  Daniel Mejia's New Balance for Checking-1081: $29267.51
+Elijah Pele paid Daniel Mejia $1000.00 from Checking-1065.  Elijah Pele's New Balance for Checking-1065: $4773.60
+Daniel Mejia received $1000.00 from Elijah Pele.  Daniel Mejia's New Balance for Checking-1081: $30267.51
+Omar Perez paid Daniel Mejia $1000.00 from Checking-1066.  Omar Perez's New Balance for Checking-1066: $4614.78
+Daniel Mejia received $1000.00 from Omar Perez.  Daniel Mejia's New Balance for Checking-1081: $31267.51
+Diego Quinones Rodriguez paid Daniel Mejia $1000.00 from Checking-1067.  Diego Quinones Rodriguez's New Balance for Checking-1067: $5104.07
+Daniel Mejia received $1000.00 from Diego Quinones Rodriguez.  Daniel Mejia's New Balance for Checking-1081: $32267.51
+Juan Rabelo paid Daniel Mejia $1000.00 from Checking-1068.  Juan Rabelo's New Balance for Checking-1068: $5241.95
+Daniel Mejia received $1000.00 from Juan Rabelo.  Daniel Mejia's New Balance for Checking-1081: $33267.51
+Angel Ramos paid Daniel Mejia $1000.00 from Checking-1069.  Angel Ramos's New Balance for Checking-1069: $5058.40
+Daniel Mejia received $1000.00 from Angel Ramos.  Daniel Mejia's New Balance for Checking-1081: $34267.51
+Efrain Retana paid Daniel Mejia $1000.00 from Checking-1070.  Efrain Retana's New Balance for Checking-1070: $5571.15
+Daniel Mejia received $1000.00 from Efrain Retana.  Daniel Mejia's New Balance for Checking-1081: $35267.51
+Hector Richart Ruiz paid Daniel Mejia $1000.00 from Checking-1071.  Hector Richart Ruiz's New Balance for Checking-1071: $4210.67
+Daniel Mejia received $1000.00 from Hector Richart Ruiz.  Daniel Mejia's New Balance for Checking-1081: $36267.51
+Andrew Rodriguez paid Daniel Mejia $1000.00 from Checking-1072.  Andrew Rodriguez's New Balance for Checking-1072: $5808.89
+Daniel Mejia received $1000.00 from Andrew Rodriguez.  Daniel Mejia's New Balance for Checking-1081: $37267.51
+Joel Salas paid Daniel Mejia $1000.00 from Checking-1073.  Joel Salas's New Balance for Checking-1073: $4507.76
+Daniel Mejia received $1000.00 from Joel Salas.  Daniel Mejia's New Balance for Checking-1081: $38267.51
+David Sanchez paid Daniel Mejia $1000.00 from Checking-1074.  David Sanchez's New Balance for Checking-1074: $5393.88
+Daniel Mejia received $1000.00 from David Sanchez.  Daniel Mejia's New Balance for Checking-1081: $39267.51
+Jose Sanchez Jr paid Daniel Mejia $1000.00 from Checking-1075.  Jose Sanchez Jr's New Balance for Checking-1075: $5096.40
+Daniel Mejia received $1000.00 from Jose Sanchez Jr.  Daniel Mejia's New Balance for Checking-1081: $40267.51
+Madison Schlosser paid Daniel Mejia $1000.00 from Checking-1076.  Madison Schlosser's New Balance for Checking-1076: $4969.22
+Daniel Mejia received $1000.00 from Madison Schlosser.  Daniel Mejia's New Balance for Checking-1081: $41267.51
+Dillon Trinh paid Daniel Mejia $1000.00 from Checking-1077.  Dillon Trinh's New Balance for Checking-1077: $5797.75
+Daniel Mejia received $1000.00 from Dillon Trinh.  Daniel Mejia's New Balance for Checking-1081: $42267.51
+Stephanie Valdez paid Daniel Mejia $1000.00 from Checking-1078.  Stephanie Valdez's New Balance for Checking-1078: $5834.72
+Daniel Mejia received $1000.00 from Stephanie Valdez.  Daniel Mejia's New Balance for Checking-1081: $43267.51
+Daniel Mejia made a balance inquiry on Checking-1081.  Daniel Mejia's Balance for Checking-1081: $43267.51
+Mickey Mouse executed a WITHDRAW from Savings-2000.  Mickey Mouse's Balance for Savings-2000: $4788.55
+Donald Duck paid Ali Abed $48.46 from Checking-1001.  Donald Duck's New Balance for Checking-1001: $769.96
+Ali Abed received $48.46 from Donald Duck.  Ali Abed's New Balance for Checking-1036: $4224.51
+Minnie Mouse executed a WITHDRAW from Savings-2002.  Minnie Mouse's Balance for Savings-2002: $1941.27
+Goofy Disney paid Kevin Acosta $15.63 from Checking-1003.  Goofy Disney's New Balance for Checking-1003: $397.89
+Kevin Acosta received $15.63 from Goofy Disney.  Kevin Acosta's New Balance for Checking-1037: $5542.78
+Pluto Disney executed a WITHDRAW from Savings-2004.  Pluto Disney's Balance for Savings-2004: $2545.23
+Chip Disney paid Antonio Aguirre $50.99 from Checking-1005.  Chip Disney's New Balance for Checking-1005: $1931.97
+Antonio Aguirre received $50.99 from Chip Disney.  Antonio Aguirre's New Balance for Checking-1038: $5132.06
+Dale Disney executed a WITHDRAW from Savings-2006.  Dale Disney's Balance for Savings-2006: $1746.54
+Cinderella Disney paid Madison Anderson $28.81 from Checking-1007.  Cinderella Disney's New Balance for Checking-1007: $1343.84
+Madison Anderson received $28.81 from Cinderella Disney.  Madison Anderson's New Balance for Checking-1039: $5839.62
+Ariel Disney executed a WITHDRAW from Savings-2008.  Ariel Disney's Balance for Savings-2008: $3999.58
+Jasmine Disney paid Kevin Aofia $28.89 from Checking-1009.  Jasmine Disney's New Balance for Checking-1009: $1411.32
+Kevin Aofia received $28.89 from Jasmine Disney.  Kevin Aofia's New Balance for Checking-1040: $4948.84
+Aladdin Disney executed a WITHDRAW from Savings-2010.  Aladdin Disney's Balance for Savings-2010: $4513.57
+Simba Disney failed to pay Angel Armendariz $39.29 from Checking-1011.  Simba Disney's New Balance for Checking-1011: $14.55
+Angel Armendariz failed to receive $39.29 from Simba Disney.  Angel Armendariz's New Balance for Checking-1041: $5182.34
+Mufassa Disney executed a WITHDRAW from Savings-2012.  Mufassa Disney's Balance for Savings-2012: $2588.56
+Aurora Disney paid Nadia Atiyeh $34.47 from Checking-1013.  Aurora Disney's New Balance for Checking-1013: $990.54
+Nadia Atiyeh received $34.47 from Aurora Disney.  Nadia Atiyeh's New Balance for Checking-1042: $4619.41
+Peter Pan executed a WITHDRAW from Savings-2014.  Peter Pan's Balance for Savings-2014: $3871.00
+Woody Disney paid Nicole Avila $34.04 from Checking-1015.  Woody Disney's New Balance for Checking-1015: $200.87
+Nicole Avila received $34.04 from Woody Disney.  Nicole Avila's New Balance for Checking-1043: $4382.74
+Buzz Lightyear executed a WITHDRAW from Savings-2016.  Buzz Lightyear's Balance for Savings-2016: $4389.46
+Jafar Aladdin paid Andrea Carrera Pio $12.36 from Checking-1017.  Jafar Aladdin's New Balance for Checking-1017: $1274.98
+Andrea Carrera Pio received $12.36 from Jafar Aladdin.  Andrea Carrera Pio's New Balance for Checking-1044: $5284.74
+Ursela Mermaid executed a WITHDRAW from Savings-2018.  Ursela Mermaid's Balance for Savings-2018: $2014.66
+Beast Disney paid Luis Davila $26.84 from Checking-1019.  Beast Disney's New Balance for Checking-1019: $1004.24
+Luis Davila received $26.84 from Beast Disney.  Luis Davila's New Balance for Checking-1045: $5582.15
+Belle Disney executed a WITHDRAW from Savings-2020.  Belle Disney's Balance for Savings-2020: $2760.90
+Cruella De Vil paid Vincent De La Torre $34.70 from Checking-1021.  Cruella De Vil's New Balance for Checking-1021: $812.26
+Vincent De La Torre received $34.70 from Cruella De Vil.  Vincent De La Torre's New Balance for Checking-1046: $5879.29
+Scar Lion executed a WITHDRAW from Savings-2022.  Scar Lion's Balance for Savings-2022: $1128.79
+Simba King paid Oswaldo Escobedo $11.31 from Checking-1023.  Simba King's New Balance for Checking-1023: $1788.18
+Oswaldo Escobedo received $11.31 from Simba King.  Oswaldo Escobedo's New Balance for Checking-1047: $5113.80
+Gaston Disney executed a WITHDRAW from Savings-2024.  Gaston Disney's Balance for Savings-2024: $1876.01
+Shere Khan paid Ivan Espino $41.20 from Checking-1025.  Shere Khan's New Balance for Checking-1025: $1306.72
+Ivan Espino received $41.20 from Shere Khan.  Ivan Espino's New Balance for Checking-1048: $5932.56
+Captaiin Hook executed a WITHDRAW from Savings-2026.  Captaiin Hook's Balance for Savings-2026: $3959.09
+Kaa Disney paid Julio Garcia $11.83 from Checking-1027.  Kaa Disney's New Balance for Checking-1027: $50.33
+Julio Garcia received $11.83 from Kaa Disney.  Julio Garcia's New Balance for Checking-1049: $4372.39
+Evil Queen executed a WITHDRAW from Savings-2028.  Evil Queen's Balance for Savings-2028: $3848.75
+Pinocchio Disney paid Mauricio Garcia Tovar $34.11 from Checking-1029.  Pinocchio Disney's New Balance for Checking-1029: $1871.27
+Mauricio Garcia Tovar received $34.11 from Pinocchio Disney.  Mauricio Garcia Tovar's New Balance for Checking-1050: $5624.86
+Prince Eric executed a WITHDRAW from Savings-2030.  Prince Eric's Balance for Savings-2030: $3168.28
+Quasimodo Disney paid Denise Gomez $25.58 from Checking-1031.  Quasimodo Disney's New Balance for Checking-1031: $506.12
+Denise Gomez received $25.58 from Quasimodo Disney.  Denise Gomez's New Balance for Checking-1051: $5475.77
+Hercules Disney executed a WITHDRAW from Savings-2032.  Hercules Disney's Balance for Savings-2032: $4912.10
+Mulan Disney paid Paulie Jo Gonzalez $36.48 from Checking-1033.  Mulan Disney's New Balance for Checking-1033: $672.26
+Paulie Jo Gonzalez received $36.48 from Mulan Disney.  Paulie Jo Gonzalez's New Balance for Checking-1052: $4966.29
+Lilo Disney executed a WITHDRAW from Savings-2034.  Lilo Disney's Balance for Savings-2034: $4137.43
+Stitch Disney paid Raul Guerrero $29.25 from Checking-1035.  Stitch Disney's New Balance for Checking-1035: $1918.36
+Raul Guerrero received $29.25 from Stitch Disney.  Raul Guerrero's New Balance for Checking-1053: $4482.73
+Gaston Disney executed a WITHDRAW from Savings-2024.  Gaston Disney's Balance for Savings-2024: $1802.01
+Mickey Mouse paid Matthew Herrera $17.97 from Checking-1000.  Mickey Mouse's New Balance for Checking-1000: $2342.15
+Matthew Herrera received $17.97 from Mickey Mouse.  Matthew Herrera's New Balance for Checking-1054: $5313.99
+Donald Duck executed a WITHDRAW from Savings-2001.  Donald Duck's Balance for Savings-2001: $2580.68
+Minnie Mouse paid Ethan Kish $29.50 from Checking-1002.  Minnie Mouse's New Balance for Checking-1002: $1041.48
+Ethan Kish received $29.50 from Minnie Mouse.  Ethan Kish's New Balance for Checking-1055: $4428.09
+Goofy Disney executed a WITHDRAW from Savings-2003.  Goofy Disney's Balance for Savings-2003: $3463.89
+Pluto Disney paid Diana Licon $39.92 from Checking-1004.  Pluto Disney's New Balance for Checking-1004: $634.94
+Diana Licon received $39.92 from Pluto Disney.  Diana Licon's New Balance for Checking-1056: $4305.72
+Chip Disney executed a WITHDRAW from Savings-2005.  Chip Disney's Balance for Savings-2005: $2776.39
+Dale Disney paid Dustyn Loyda $50.39 from Checking-1006.  Dale Disney's New Balance for Checking-1006: $503.15
+Dustyn Loyda received $50.39 from Dale Disney.  Dustyn Loyda's New Balance for Checking-1057: $4707.95
+Cinderella Disney executed a WITHDRAW from Savings-2007.  Cinderella Disney's Balance for Savings-2007: $1000.31
+Ariel Disney paid Mario Macias $46.88 from Checking-1008.  Ariel Disney's New Balance for Checking-1008: $591.47
+Mario Macias received $46.88 from Ariel Disney.  Mario Macias's New Balance for Checking-1058: $4801.28
+Jasmine Disney executed a WITHDRAW from Savings-2009.  Jasmine Disney's Balance for Savings-2009: $4062.14
+Aladdin Disney paid Daniel Moreno $25.16 from Checking-1010.  Aladdin Disney's New Balance for Checking-1010: $1140.95
+Daniel Moreno received $25.16 from Aladdin Disney.  Daniel Moreno's New Balance for Checking-1059: $5848.38
+Simba Disney executed a WITHDRAW from Savings-2011.  Simba Disney's Balance for Savings-2011: $611.68
+Mufassa Disney paid Jacob Moreno $33.54 from Checking-1012.  Mufassa Disney's New Balance for Checking-1012: $813.03
+Jacob Moreno received $33.54 from Mufassa Disney.  Jacob Moreno's New Balance for Checking-1060: $4699.88
+Mickey Mouse paid Kevin Moreno $48.46 from Savings-2000.  Mickey Mouse's New Balance for Savings-2000: $4740.09
+Kevin Moreno received $48.46 from Mickey Mouse.  Kevin Moreno's New Balance for Checking-1061: $4807.95
+Donald Duck executed a WITHDRAW from Checking-1001.  Donald Duck's Balance for Checking-1001: $690.96
+Minnie Mouse paid Leonardo Munoz $15.63 from Savings-2002.  Minnie Mouse's New Balance for Savings-2002: $1925.64
+Leonardo Munoz received $15.63 from Minnie Mouse.  Leonardo Munoz's New Balance for Checking-1062: $4924.38
+Goofy Disney executed a WITHDRAW from Checking-1003.  Goofy Disney's Balance for Checking-1003: $320.89
+Pluto Disney paid Francisco Nolasco $50.99 from Savings-2004.  Pluto Disney's New Balance for Savings-2004: $2494.24
+Francisco Nolasco received $50.99 from Pluto Disney.  Francisco Nolasco's New Balance for Checking-1063: $5462.25
+Chip Disney executed a WITHDRAW from Checking-1005.  Chip Disney's Balance for Checking-1005: $1877.97
+Dale Disney paid Roberto Orozco $28.81 from Savings-2006.  Dale Disney's New Balance for Savings-2006: $1717.73
+Roberto Orozco received $28.81 from Dale Disney.  Roberto Orozco's New Balance for Checking-1064: $4718.20
+Cinderella Disney executed a WITHDRAW from Checking-1007.  Cinderella Disney's Balance for Checking-1007: $1286.84
+Ariel Disney paid Elijah Pele $28.89 from Savings-2008.  Ariel Disney's New Balance for Savings-2008: $3970.69
+Elijah Pele received $28.89 from Ariel Disney.  Elijah Pele's New Balance for Checking-1065: $4802.49
+Jasmine Disney executed a WITHDRAW from Checking-1009.  Jasmine Disney's Balance for Checking-1009: $1317.32
+Aladdin Disney paid Omar Perez $39.29 from Savings-2010.  Aladdin Disney's New Balance for Savings-2010: $4474.28
+Omar Perez received $39.29 from Aladdin Disney.  Omar Perez's New Balance for Checking-1066: $4654.07
+Simba Disney failed to execute a WITHDRAW from Checking-1011.  Simba Disney's Balance for Checking-1011: $14.55
+Mufassa Disney paid Diego Quinones Rodriguez $34.47 from Savings-2012.  Mufassa Disney's New Balance for Savings-2012: $2554.09
+Diego Quinones Rodriguez received $34.47 from Mufassa Disney.  Diego Quinones Rodriguez's New Balance for Checking-1067: $5138.54
+Aurora Disney executed a WITHDRAW from Checking-1013.  Aurora Disney's Balance for Checking-1013: $890.54
+Peter Pan paid Juan Rabelo $34.04 from Savings-2014.  Peter Pan's New Balance for Savings-2014: $3836.96
+Juan Rabelo received $34.04 from Peter Pan.  Juan Rabelo's New Balance for Checking-1068: $5275.99
+Woody Disney executed a WITHDRAW from Checking-1015.  Woody Disney's Balance for Checking-1015: $110.87
+Buzz Lightyear paid Angel Ramos $12.36 from Savings-2016.  Buzz Lightyear's New Balance for Savings-2016: $4377.10
+Angel Ramos received $12.36 from Buzz Lightyear.  Angel Ramos's New Balance for Checking-1069: $5070.76
+Jafar Aladdin executed a WITHDRAW from Checking-1017.  Jafar Aladdin's Balance for Checking-1017: $1218.98
+Ursela Mermaid paid Efrain Retana $26.84 from Savings-2018.  Ursela Mermaid's New Balance for Savings-2018: $1987.82
+Efrain Retana received $26.84 from Ursela Mermaid.  Efrain Retana's New Balance for Checking-1070: $5597.99
+Beast Disney executed a WITHDRAW from Checking-1019.  Beast Disney's Balance for Checking-1019: $916.24
+Belle Disney paid Hector Richart Ruiz $34.70 from Savings-2020.  Belle Disney's New Balance for Savings-2020: $2726.20
+Hector Richart Ruiz received $34.70 from Belle Disney.  Hector Richart Ruiz's New Balance for Checking-1071: $4245.37
+Cruella De Vil executed a WITHDRAW from Checking-1021.  Cruella De Vil's Balance for Checking-1021: $747.26
+Scar Lion paid Andrew Rodriguez $11.31 from Savings-2022.  Scar Lion's New Balance for Savings-2022: $1117.48
+Andrew Rodriguez received $11.31 from Scar Lion.  Andrew Rodriguez's New Balance for Checking-1072: $5820.20
+Simba King executed a WITHDRAW from Checking-1023.  Simba King's Balance for Checking-1023: $1710.18
+Gaston Disney paid Joel Salas $41.20 from Savings-2024.  Gaston Disney's New Balance for Savings-2024: $1760.81
+Joel Salas received $41.20 from Gaston Disney.  Joel Salas's New Balance for Checking-1073: $4548.96
+Shere Khan executed a WITHDRAW from Checking-1025.  Shere Khan's Balance for Checking-1025: $1220.72
+Captaiin Hook paid David Sanchez $11.83 from Savings-2026.  Captaiin Hook's New Balance for Savings-2026: $3947.26
+David Sanchez received $11.83 from Captaiin Hook.  David Sanchez's New Balance for Checking-1074: $5405.71
+Evil Queen executed a WITHDRAW from Savings-2028.  Evil Queen's Balance for Savings-2028: $3762.75
+Pinocchio Disney paid Jose Sanchez Jr $34.11 from Checking-1029.  Pinocchio Disney's New Balance for Checking-1029: $1837.16
+Jose Sanchez Jr received $34.11 from Pinocchio Disney.  Jose Sanchez Jr's New Balance for Checking-1075: $5130.51
+Prince Eric executed a WITHDRAW from Savings-2030.  Prince Eric's Balance for Savings-2030: $3111.28
+Quasimodo Disney paid Madison Schlosser $25.58 from Checking-1031.  Quasimodo Disney's New Balance for Checking-1031: $480.54
+Madison Schlosser received $25.58 from Quasimodo Disney.  Madison Schlosser's New Balance for Checking-1076: $4994.80
+Hercules Disney executed a WITHDRAW from Savings-2032.  Hercules Disney's Balance for Savings-2032: $4827.10
+Mulan Disney paid Dillon Trinh $36.48 from Checking-1033.  Mulan Disney's New Balance for Checking-1033: $635.78
+Dillon Trinh received $36.48 from Mulan Disney.  Dillon Trinh's New Balance for Checking-1077: $5834.23
+Lilo Disney executed a WITHDRAW from Savings-2034.  Lilo Disney's Balance for Savings-2034: $4078.43
+Stitch Disney paid Stephanie Valdez $29.25 from Checking-1035.  Stitch Disney's New Balance for Checking-1035: $1889.11
+Stephanie Valdez received $29.25 from Stitch Disney.  Stephanie Valdez's New Balance for Checking-1078: $5863.97
